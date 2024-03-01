@@ -1,0 +1,5 @@
+chromadb==0.4.22
+numpy==1.26.3
+pandas==2.2.0
+pillow==10.2.0
+transformers==4.37.2
